@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TroyE\\RiderProjects\\ResourcePage\\ResourcePage.csproj": {}
+    "C:\\Users\\TroyE\\OneDrive\\Documents\\GitHubRepos\\ResourcePage\\ResourcePage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TroyE\\RiderProjects\\ResourcePage\\ResourcePage.csproj": {
+    "C:\\Users\\TroyE\\OneDrive\\Documents\\GitHubRepos\\ResourcePage\\ResourcePage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TroyE\\RiderProjects\\ResourcePage\\ResourcePage.csproj",
+        "projectUniqueName": "C:\\Users\\TroyE\\OneDrive\\Documents\\GitHubRepos\\ResourcePage\\ResourcePage.csproj",
         "projectName": "ResourcePage",
-        "projectPath": "C:\\Users\\TroyE\\RiderProjects\\ResourcePage\\ResourcePage.csproj",
+        "projectPath": "C:\\Users\\TroyE\\OneDrive\\Documents\\GitHubRepos\\ResourcePage\\ResourcePage.csproj",
         "packagesPath": "C:\\Users\\TroyE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TroyE\\RiderProjects\\ResourcePage\\obj\\",
+        "outputPath": "C:\\Users\\TroyE\\OneDrive\\Documents\\GitHubRepos\\ResourcePage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TroyE\\AppData\\Roaming\\NuGet\\NuGet.Config"
